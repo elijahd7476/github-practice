@@ -1,0 +1,53 @@
+﻿GitHub Practice File
+Student Name: elijah
+Date: september 9 2025
+Class: web design
+================================================== WELCOME TO YOUR FIRST GITHUB UPLOAD!
+This is a practice file for learning how to use GitHub. You will be uploading this file to your very first repository!
+
+
+________________
+
+
+YOUR TASKS:
+1.  Edit this file by adding your name above
+2.  Add today's date
+3.  Add your class name
+4.  Save the file
+5.  Upload it to your GitHub repository
+6.  Celebrate your first GitHub upload!
+
+
+________________
+
+
+FUN FACTS ABOUT GITHUB:
+• GitHub has over 100 million developers worldwide • The GitHub mascot is called "Octocat"  • Microsoft acquired GitHub in 2018 for $7.5 billion • GitHub hosts code for millions of open-source projects • Many famous projects like Linux, React, and TensorFlow are on GitHub
+
+
+________________
+
+
+GITHUB TIPS FOR BEGINNERS:
+1. Always write descriptive commit messages
+2. Update your README file to explain your project
+3. Use branches for experimenting with new features
+4. Don't be afraid to explore other people's code
+5. Contributing to open source is a great way to learn!
+
+
+________________
+
+
+WRITE YOUR THOUGHTS:
+What do you want to build with GitHub? (Write your answer below)
+
+
+Really anything i js want to be able to do anythingj
+________________
+
+
+CHECKLIST:
+[ ] Created GitHub account [ ] Created first repository [ ] Uploaded this file [ ] Added a commit message [ ] Shared repository link with teacher [ ] Explored at least one other repository
+================================================== 🌟 CONGRATULATIONS!  You're now part of the global developer community!
+Remember: Every expert was once a beginner. Keep learning and coding!
